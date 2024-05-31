@@ -38,4 +38,4 @@ copyToClipboard(window.location.href);
 showNotification("URL copiada ✅");
 
 // Abre la aplicación utilizando el enlace personalizado
-window.location.href = 'customurl://' + encodeURIComponent(window.location.href);
+window.location.href = 'YTVideoDownloaderUI://' + encodeURIComponent(window.location.href);
